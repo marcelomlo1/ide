@@ -1,0 +1,101 @@
+div.css-j5r0tf.e1tzin5v1 {
+    background-color: #EEEEEE;
+    border: 2px solid #CCCCCC;
+    padding: 20px 5px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+div.css-j5r0tf.e1tzin5v2 {
+    background-color: #EEEEEE;
+    border: 2px solid #CCCCCC;
+    padding: 20px 5px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+
+h4 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 500;
+    color: rgb(19, 20, 26);
+    padding: 1px;
+    margin: 0px;
+    line-height: 1;
+    text-align: center;
+}
+
+.css-50ug3q {
+    overflow-wrap: normal;
+    text-overflow: ellipsis;
+    width: 85%;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: "Source Sans Pro", sans-serif;
+    line-height: unset;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 0px 0px 45px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-1ht1j8u {
+    overflow-wrap: normal;
+    text-overflow: ellipsis;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: "Source Sans Pro", sans-serif;
+    line-height: normal;
+    text-align: center;
+    font-size: 90%;
+}
+
+.css-17m02lp {
+    vertical-align: middle;
+    overflow: hidden;
+    color: inherit;
+    fill: currentcolor;
+    display: inline-flex;
+    font-size: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin: 0px -118px 0px 108px;
+}
+
+.css-wnm74r {
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.css-qrbaxs {
+    font-size: 14px;
+    color: rgb(49, 51, 63);
+    margin-bottom: 7px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.viewerBadge_container__1QSob {
+    z-index: 50;
+    font-size: .875rem;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: none !important;
+}

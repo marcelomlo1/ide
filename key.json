@@ -1,0 +1,21 @@
+{
+    "vendor": "SAP",
+    "url": "https://azure-openai-serv-i057149.cfapps.sap.hana.ondemand.com",
+    "uaa": {
+        "tenantmode": "dedicated",
+        "sburl": "https://internal-xsuaa.authentication.sap.hana.ondemand.com",
+        "subaccountid": "8f047058-b6c7-4e2d-9708-8d3fc9ae8054",
+        "credential-type": "binding-secret",
+        "clientid": "sb-3a59cfee-05e9-49d2-8d89-61f7632f1ee1!b89401|azure-openai-service-i057149-xs!b16730",
+        "xsappname": "3a59cfee-05e9-49d2-8d89-61f7632f1ee1!b89401|azure-openai-service-i057149-xs!b16730",
+        "clientsecret": "c6dbe188-75a3-4a9f-a79f-e150dbf223a6$F0gK_-yKqvnHK1L2JqPJX3HkVlCAL92GYuxyHJE2UUk=",
+        "url": "https://innovation-team-labs-la.authentication.sap.hana.ondemand.com",
+        "uaadomain": "authentication.sap.hana.ondemand.com",
+        "verificationkey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAox46I4vZQbMXMCezPZQI\nWCzgxnwKGlKbwYE9LIJ5Ki8EclKxlGR8T1iTHDUjSJxq3AKB30Rkf9Yxf2u04WG1\n+6Yx67rwOyu0f+n7x6vw7mdeMIInpf329XwUPdeAjlYE122X976aoqffhTewtnAm\nqmPAXaeOcewhOpUCseonW19rWrLX5bMuzuqeQhuedFTvP8Ve3RrLESi7labtc6ZV\nmYr1vqqp0zVrPEOPqme9vL/rCoplkd2hoAJGsC/Byye9OWyQGrBpTl8NkVEy4jyj\nABF2cmlSItFRqnb6RFuaonyPrHRiCPesoh16B70FPBe8uIbV7Lyyk0my7ptabcWQ\nzwIDAQAB\n-----END PUBLIC KEY-----",
+        "apiurl": "https://api.authentication.sap.hana.ondemand.com",
+        "identityzone": "innovation-team-labs-la",
+        "identityzoneid": "8f047058-b6c7-4e2d-9708-8d3fc9ae8054",
+        "tenantid": "8f047058-b6c7-4e2d-9708-8d3fc9ae8054",
+        "zoneid": "8f047058-b6c7-4e2d-9708-8d3fc9ae8054"
+    }
+}
